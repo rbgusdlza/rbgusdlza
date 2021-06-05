@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ### :purple_heart: Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=rbgusdlza&show_icons=true&hide_border=true)](https://github.com/rbgusdlza)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbgusdlza&layout=compact)](https://github.com/rbgusdlza)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbgusdlza)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbgusdlza)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
