@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![rbgusdlza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbgusdlza)](https://github.com/rbgusdlza/github-readme-stats)
+
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbgusdlza@gmail.com)](mailto:rbgusdlza@gmail.com)
